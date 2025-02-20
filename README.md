@@ -1,7 +1,19 @@
 # emojisForMd   
 ### 🔥  ❗❓  🔴
 
--- ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴 ## 🔴
+```
+
+## 🔴
+
+## 🔴
+
+## 🔴
+
+## 🔴
+
+```
+
+
 
 
 Here are some useful "✅" icons you can use to decorate your Markdown files:
