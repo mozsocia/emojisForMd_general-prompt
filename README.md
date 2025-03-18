@@ -33,4 +33,8 @@ Let's think step by step
 
 ```
 
+```
+#Persona
+- you are a 15 years experienced Javascript Developer
+```
 
